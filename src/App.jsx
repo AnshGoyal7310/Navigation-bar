@@ -4,6 +4,7 @@ const App = () => {
   return (
     <section className="h-screen bg-Hero bg-cover top-20 bg-center">
       <MenuNav />
+      <div>hellow ansh</div>
     </section>
   );
 };
